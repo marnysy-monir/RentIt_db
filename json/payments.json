@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "683611a600567342a08a63dd",
+    "rentalAmount": 51,
+    "depositAmount": 34,
+    "feesRate": 0.05557373581519049,
+    "refundAmount": 34,
+    "status": "pending",
+    "createdAt": "2025-05-27T19:25:26.608Z",
+    "updatedAt": "2025-05-27T19:25:26.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a63e3",
+    "rentalAmount": 23,
+    "depositAmount": 24,
+    "feesRate": 0.0821434527156784,
+    "refundAmount": 43,
+    "status": "pending",
+    "createdAt": "2025-05-27T19:25:26.631Z",
+    "updatedAt": "2025-05-27T19:25:26.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a63e9",
+    "rentalAmount": 11,
+    "depositAmount": 34,
+    "feesRate": 0.03834172486910462,
+    "refundAmount": 30,
+    "status": "completed",
+    "createdAt": "2025-05-27T19:25:26.653Z",
+    "updatedAt": "2025-05-27T19:25:26.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a63ef",
+    "rentalAmount": 38,
+    "depositAmount": 40,
+    "feesRate": 0.0254679619018007,
+    "refundAmount": 13,
+    "status": "completed",
+    "createdAt": "2025-05-27T19:25:26.675Z",
+    "updatedAt": "2025-05-27T19:25:26.675Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a63f5",
+    "rentalAmount": 68,
+    "depositAmount": 5,
+    "feesRate": 0.03296041765330325,
+    "refundAmount": 33,
+    "status": "completed",
+    "createdAt": "2025-05-27T19:25:26.693Z",
+    "updatedAt": "2025-05-27T19:25:26.693Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a63fb",
+    "rentalAmount": 44,
+    "depositAmount": 39,
+    "feesRate": 0.0318359310253539,
+    "refundAmount": 22,
+    "status": "pending",
+    "createdAt": "2025-05-27T19:25:26.720Z",
+    "updatedAt": "2025-05-27T19:25:26.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a6401",
+    "rentalAmount": 57,
+    "depositAmount": 6,
+    "feesRate": 0.043988611350819405,
+    "refundAmount": 3,
+    "status": "pending",
+    "createdAt": "2025-05-27T19:25:26.740Z",
+    "updatedAt": "2025-05-27T19:25:26.740Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a6407",
+    "rentalAmount": 14,
+    "depositAmount": 8,
+    "feesRate": 0.08412397632911316,
+    "refundAmount": 24,
+    "status": "completed",
+    "createdAt": "2025-05-27T19:25:26.776Z",
+    "updatedAt": "2025-05-27T19:25:26.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a640d",
+    "rentalAmount": 18,
+    "depositAmount": 28,
+    "feesRate": 0.08194472074644016,
+    "refundAmount": 0,
+    "status": "completed",
+    "createdAt": "2025-05-27T19:25:26.796Z",
+    "updatedAt": "2025-05-27T19:25:26.796Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a6413",
+    "rentalAmount": 44,
+    "depositAmount": 20,
+    "feesRate": 0.0844551996167196,
+    "refundAmount": 50,
+    "status": "pending",
+    "createdAt": "2025-05-27T19:25:26.813Z",
+    "updatedAt": "2025-05-27T19:25:26.813Z",
+    "__v": 0
+  }
+]

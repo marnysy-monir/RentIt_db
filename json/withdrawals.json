@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "683611a600567342a08a6419",
+    "amountPaid": 114,
+    "paymentDate": "2024-12-12T05:21:51.238Z",
+    "status": "requested",
+    "createdAt": "2025-05-27T19:25:26.833Z",
+    "updatedAt": "2025-05-27T19:25:26.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a641b",
+    "amountPaid": 423,
+    "paymentDate": "2024-08-18T02:03:07.716Z",
+    "status": "processed",
+    "createdAt": "2025-05-27T19:25:26.841Z",
+    "updatedAt": "2025-05-27T19:25:26.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a641d",
+    "amountPaid": 233,
+    "paymentDate": "2025-01-15T11:36:28.572Z",
+    "status": "requested",
+    "createdAt": "2025-05-27T19:25:26.849Z",
+    "updatedAt": "2025-05-27T19:25:26.849Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a641f",
+    "amountPaid": 495,
+    "paymentDate": "2025-02-16T14:36:13.150Z",
+    "status": "processed",
+    "createdAt": "2025-05-27T19:25:26.855Z",
+    "updatedAt": "2025-05-27T19:25:26.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a6421",
+    "amountPaid": 315,
+    "paymentDate": "2024-08-22T00:58:41.539Z",
+    "status": "requested",
+    "createdAt": "2025-05-27T19:25:26.903Z",
+    "updatedAt": "2025-05-27T19:25:26.903Z",
+    "__v": 0
+  }
+]

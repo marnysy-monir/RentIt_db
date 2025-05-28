@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "6836087bd19694cd1308327d",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T18:46:19.702Z",
+    "updatedAt": "2025-05-27T18:46:19.702Z",
+    "__v": 0
+  },
+  {
+    "_id": "683608de0c0f1ccd70a11064",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T18:47:58.286Z",
+    "updatedAt": "2025-05-27T18:47:58.286Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360a18c6270000598c1660",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T18:53:12.442Z",
+    "updatedAt": "2025-05-27T18:53:12.442Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360b1b27fde679480b1cf0",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T18:57:31.397Z",
+    "updatedAt": "2025-05-27T18:57:31.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360be9c1be5f2b381074d4",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:00:57.174Z",
+    "updatedAt": "2025-05-27T19:00:57.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360d1871f82862630c0d4f",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:06:00.326Z",
+    "updatedAt": "2025-05-27T19:06:00.326Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360d90932dc389efd5df7f",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:08:00.217Z",
+    "updatedAt": "2025-05-27T19:08:00.217Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360da2f7b36069a5d11a4d",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:08:18.932Z",
+    "updatedAt": "2025-05-27T19:08:18.932Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360dc61f3e71a9cdd5eedb",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:08:54.378Z",
+    "updatedAt": "2025-05-27T19:08:54.378Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360dd74d7b08c4fc70026d",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:09:11.720Z",
+    "updatedAt": "2025-05-27T19:09:11.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360ebdaf1337eca868ad00",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:13:01.269Z",
+    "updatedAt": "2025-05-27T19:13:01.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360eefbdb8f0873d11aa2d",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:13:51.963Z",
+    "updatedAt": "2025-05-27T19:13:51.963Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360f24f0513621be9e2ebb",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:14:44.082Z",
+    "updatedAt": "2025-05-27T19:14:44.082Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360f6140abbb23cf816c6d",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:15:45.780Z",
+    "updatedAt": "2025-05-27T19:15:45.780Z",
+    "__v": 0
+  },
+  {
+    "_id": "68360f7f80db23a1109af732",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:16:15.520Z",
+    "updatedAt": "2025-05-27T19:16:15.520Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836101cfaa3796e0f19f657",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:18:52.950Z",
+    "updatedAt": "2025-05-27T19:18:52.950Z",
+    "__v": 0
+  },
+  {
+    "_id": "68361111f91abf0ff7fa6c76",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:22:57.672Z",
+    "updatedAt": "2025-05-27T19:22:57.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "683611a600567342a08a6363",
+    "maxDepositAmount": 500,
+    "feetRate": 0.15,
+    "lastUpdatedBy": "Monir",
+    "createdAt": "2025-05-27T19:25:26.103Z",
+    "updatedAt": "2025-05-27T19:25:26.103Z",
+    "__v": 0
+  }
+]
