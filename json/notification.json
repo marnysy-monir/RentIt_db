@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "9649b8c70fbf87acf5324ef1",
+    "user": "6849b8c70fbf87acf5324ef5",
+    "sender": {
+      "_id": "6849b8c70fbf87acf5324ef1",
+      "firstName": "Yassine",
+      "lastName": "El Amrani"
+    },
+    "message": "Borrower wants to return the tool: Electric Drill. Please confirm receipt.",
+    "reservation": "a849b8c70fbf87acf5324ef5",
+    "isRead": false,
+    "createdAt": "2025-06-12T08:00:00.000Z",
+    "updatedAt": "2025-06-12T08:00:00.000Z"
+  },
+  {
+    "_id": "9649b8c70fbf87acf5324ef2",
+    "user": "6849b8c70fbf87acf5324ef5",
+    "sender": {
+      "_id": "6849b8c70fbf87acf5324ef2",
+      "firstName": "Sara",
+      "lastName": "Benali"
+    },
+    "message": "Borrower wants to return the tool: Paint Sprayer. Please confirm receipt.",
+    "reservation": "b849b8c70fbf87acf5324ef5",
+    "isRead": true,
+    "createdAt": "2025-06-11T12:30:00.000Z",
+    "updatedAt": "2025-06-11T13:00:00.000Z"
+  },
+  {
+    "_id": "9649b8c70fbf87acf5324ef3",
+    "user": "6849b8c70fbf87acf5324ef5",
+    "sender": {
+      "_id": "6849b8c70fbf87acf5324ef3",
+      "firstName": "Amine",
+      "lastName": "Ouali"
+    },
+    "message": "Borrower wants to return the tool: Ladder. Please confirm receipt.",
+    "reservation": "c849b8c70fbf87acf5324ef5",
+    "isRead": false,
+    "createdAt": "2025-06-10T15:45:00.000Z",
+    "updatedAt": "2025-06-10T15:45:00.000Z"
+  },
+  {
+    "_id": "9649b8c70fbf87acf5324ef4",
+    "user": "6849b8c70fbf87acf5324ef5",
+    "sender": {
+      "_id": "6849b8c70fbf87acf5324ef4",
+      "firstName": "Fatima",
+      "lastName": "Zahra"
+    },
+    "message": "Borrower wants to return the tool: Power Washer. Please confirm receipt.",
+    "reservation": "d849b8c70fbf87acf5324ef5",
+    "isRead": false,
+    "createdAt": "2025-06-09T09:10:00.000Z",
+    "updatedAt": "2025-06-09T09:10:00.000Z"
+  },
+  {
+    "_id": "9649b8c70fbf87acf5324ef5",
+    "user": "6849b8c70fbf87acf5324ef5",
+    "sender": {
+      "_id": "6849b8c70fbf87acf5324ef6",
+      "firstName": "Mohamed",
+      "lastName": "Ali"
+    },
+    "message": "Borrower wants to return the tool: Tile Cutter. Please confirm receipt.",
+    "reservation": "e849b8c70fbf87acf5324ef5",
+    "isRead": true,
+    "createdAt": "2025-06-08T17:00:00.000Z",
+    "updatedAt": "2025-06-08T17:05:00.000Z"
+  }
+]
